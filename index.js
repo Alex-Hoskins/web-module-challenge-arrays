@@ -49,9 +49,6 @@ function copy(arr){
   let newArray=[...arr]
     return newArray
   }
-console.log(newArray)
-
-
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
